@@ -12,7 +12,7 @@ public class Task1 {
         String litter = "How are you?";
         String book = "Java";
 
-        System.out.println(book + litter);
+        System.out.println(book + " " + litter);
         System.out.println("Сумма цифр числа: " + " a + b" +" равна " + sum);
 
         // Task 3
