@@ -31,6 +31,12 @@ public class Task1 {
         System.out.println(a4);
         System.out.println(a5);
 
+        System.out.println("/" + "/"+"/"+"/"+"/"+"/");
+        System.out.println("[" +"| 0 0 |"+"]");
+        System.out.println(" " +"|  ^  |");
+        System.out.println(" " +"| '_' |");
+        System.out.println(" " +"--------");
+
 
     }
 
