@@ -3,7 +3,7 @@ package Homework;
 public class Task1 {
     public static void main(String[] args) {
 
-        // Tesk 2
+        // Task 2
 
         int a = 10;
         int b = 5;
@@ -36,6 +36,17 @@ public class Task1 {
         System.out.println(" " +"|  ^  |");
         System.out.println(" " +"| '_' |");
         System.out.println(" " +"--------");
+
+        String z1 = ("***------");
+        String z2 = ("***------");
+        String z3 = ("***------");
+        String z4 = ("---------");
+        String z5 = ("---------");
+        System.out.println(z1);
+        System.out.println(z2);
+        System.out.println(z3);
+        System.out.println(z4);
+        System.out.println(z5);
 
 
     }
