@@ -31,12 +31,14 @@ public class Task1 {
         System.out.println(a4);
         System.out.println(a5);
 
+        // Веселая рожеца
         System.out.println("/" + "/"+"/"+"/"+"/"+"/");
         System.out.println("[" +"| 0 0 |"+"]");
         System.out.println(" " +"|  ^  |");
         System.out.println(" " +"| '_' |");
         System.out.println(" " +"--------");
 
+        // Американский флаг
         String z1 = ("***------");
         String z2 = ("***------");
         String z3 = ("***------");
